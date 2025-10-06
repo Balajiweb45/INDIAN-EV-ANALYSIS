@@ -26,3 +26,4 @@ The dataset includes:
 
 This Power BI analysis offers comprehensive insights into the Indian EV market, covering essential metrics for understanding growth, competition, and regional demand. It serves as a valuable resource for automotive companies, investors, and policymakers to evaluate and strategize for the Indian EV landscape.
 ## DASHBAORD
+Here is the Dashboard:[App powerbi link](https://app.powerbi.com/view?r=eyJrIjoiNzgyMjY1MTAtZWFjZS00Zjg4LWE0YjUtMjdkNTRlMjhiNzY5IiwidCI6IjI4MTc1ZDcxLTIxNGMtNGE1MS1hM2NhLTU1NzliZTNkMTY1OCJ9)
